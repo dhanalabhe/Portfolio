@@ -1,6 +1,4 @@
-Absolutely! Here's a **complete `README.md`** that you can **directly copy-paste** for your portfolio project, ready for GitHub and Vercel deployment:
 
-````markdown
 # Personal Portfolio Website
 
 A personal portfolio website built with **Next.js 15**, **Tailwind CSS**, and **Motion** for animations. This website showcases my skills, projects, and experience. It supports **dark/light mode**, responsive design, and smooth animations for an engaging user experience.
