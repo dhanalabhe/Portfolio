@@ -104,8 +104,3 @@ This project can be easily deployed on **Vercel**:
 This project is open source under the MIT License.
 
 ---
-
-
-
-Do you want me to do that too?
-```
